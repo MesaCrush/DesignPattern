@@ -1,2 +1,2 @@
 # DesignPattern
-Learning notes of DesignPattern used Java.
+Learning notes of DesignPattern by Java.
